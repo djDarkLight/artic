@@ -1,0 +1,2 @@
+# artic
+django /rest project
